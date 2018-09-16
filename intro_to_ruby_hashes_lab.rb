@@ -1,4 +1,4 @@
-require ''
+require 'pry'
 
 def new_hash
   hash  = {}
@@ -18,7 +18,7 @@ def monopoly_with_second_tier
 hash = monopoly 
 hash[:railroads][:pieces] = 4
 hash[:raildroads][:names] = {}
-hash
+binding.pry
 	
 end
 
