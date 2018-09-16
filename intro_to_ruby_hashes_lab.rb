@@ -33,7 +33,7 @@ hash[:railroads][:names][:reading_railroad] = {}
 hash[:railroads][:names][:pennsylvania_railroad] = {}
 hash[:railroads][:names][:b_and_o_railroad] = {}
 hash[:railroads][:names][:shortline] = {}
-		
+hash
 end
 
 def monopoly_with_fourth_tier
