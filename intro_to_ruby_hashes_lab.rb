@@ -19,6 +19,7 @@ hash = monopoly
 hash[:railroads][:pieces] = 4
 hash[:railroads][:names] = {}
 
+hash
 	
 end
 
